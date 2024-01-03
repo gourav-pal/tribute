@@ -1,5 +1,33 @@
-* {
+*{
+    background-color: #d4a373;
     margin: 0;
     padding: 0;
-    
 }
+body{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+    text-align: center;
+    margin: auto;
+    margin-top: 40px;
+    background-color: #faedcd;
+    border-radius: 10px;
+    margin-top: 5%;
+    color: #bc6c25;
+}
+section{
+    border: 10px;
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 50px;
+
+}
+.cont {
+     margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
